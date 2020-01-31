@@ -21,8 +21,7 @@ public class Main {
 		System.out.printf("O valor de 'x' é: %.2f%n",x);
 		System.out.printf("O valor de 'x' é: %.4f%n",x);
 		
-		System.out.println("RESULTADO = " + x + " METROS");
-		System.out.printf("RESULTADO = %.2f metros%n", x);
+		System.out.println("RESULTADO = %.2F metros%n", x);
 		
 		
 	}
